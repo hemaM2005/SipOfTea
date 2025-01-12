@@ -1,3 +1,6 @@
+INSTRUCTIONS TO PLAY:
+...
+
 This is the code for a basic console conversation engine. It comprises code written in C# (.cs files) and text to read from (.txt files).
 It allows the console to read from text files, including adding color, indentation, etc. as the programmer deems fit, and take user input through MCQs (with a variable number of options).
 The 'story' of this game, here, is a conversation of the player with someone inside the computer called 'Ohio.' It was inspired by the genre of 'visual novels,' which is essentially the same thing, just not in a console. In fact, the motivation was for me to work on an actual visual novel, with artwork and music and all, after my experience with this game.
