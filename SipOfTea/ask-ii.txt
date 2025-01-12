@@ -1,0 +1,191 @@
+﻿ATTENTION
+ dont leave space bw stuff to avoid errors
+
+///1///
+
+\1\ > Uhh hello? What... are you?
+\2\ > Yes, of course I'm here! You can see me. And everything you see is real.
+\3\ > .....
+
+\1/ Umm.#.#.# why can you even see me? This doesn't make sense.
+\2/ Umm.#.#.# okay, I guess.### This doesn't make sense, you shouldn't be able to see me.
+\3/ Hello?### Are you not there?## No, of course you are, I can see you. This doesn't make sense.
+
+
+
+///2///
+
+\1\ > What do you mean 'live inside'?
+\2\ > How do you fit inside my computer, it's tiny in there.
+\3\ > What do you do inside my computer?
+
+\1/ Things do have a knack for not looking the way they are, don't they? I mean, I'm sure you know.#####
+\2/ People have a way of bending to fit into places they think they don't belong in. You think you can't, but you can.
+\3/ Not everything needs to 'do' something, you know. We all think that, on some level, but you don't always need a 'purpose'.
+
+
+
+///3///
+
+\1\ > You seem to know how to make tea very well.
+
+\1/
+
+
+
+///4///
+
+\1\ > I suppose you're right. Even when you loo-
+\2\ > $30$Nobody eats sand.$$
+
+\1/ ################
+\2/ Yeah, that's the point, you see-
+
+
+
+///5///
+
+\1\ > Wait, I- aren't you inside a computer?
+\2\ > Thank god, you can continue making tea now.
+\3\ > How do you have a kettle inside there?
+
+\1/ Oh, I sure will!
+\2/ Oh, I sure will!
+\3/ Oh, I sure will!
+
+
+
+///6///
+
+\1\ > Add cinnamon
+\2\ > Add tulsi
+\3\ > Add ginger
+
+\1/ That's my favourite thing to add! There was this store at the nearby mall that used to sell cinnamon products, so it's kinda close to heart.
+\2/ My grandmother used to love that. She had a dozen tulsi plants in our verandah for just that! She thought there was a tulsi goddess inside. 'Tulsi ji.'
+\3/ That is a classic. Way back in kindergarten, when ma didn't let me have too much tea, she'd treat me with 'adrak ki chai' and rusks.
+
+
+
+///7///
+
+\1\ > Aw, no, you're the one that's the expert.
+\2\ > Do we know each other?
+
+\1/ Oh.#.#.# ummm###
+\2/ Oh.#.#.# ummm###
+
+
+///8///
+
+\1\ > Did you get your recipes from who you were in love with?
+
+\1/ I.#.#.# I can't remember.#####
+
+
+
+///9///
+
+\1\ > Nothing?
+
+\1/ No.#.#.#
+
+
+
+///10///
+
+\1\ > Try to remember your recipes then. Try, it might help you remember.
+
+\1/ Umm... 
+
+
+
+///11///
+
+\1\ > I do.
+
+\1/ Oh#.#.#. I-######
+
+
+
+///12///
+
+\1\ > You know we're in different worlds, though. You know that, right?
+
+\1/ I know.###################
+
+
+
+///13///
+
+\1\ > $13$I am,$$ actually.
+\2\ > $22$Never,$$ no.
+\3\ > $9$Once.$$ A while back.
+\4\ > $18$A fair few times,$$ yes.
+\5\ > I'm... $27$not sure.$$
+
+\1/ Oh. That.#.#.# must be really nice. Think of them for a second.####################
+\2/ Hmm.#.#.# ####################### %I love you.%##
+\3/ Ah.#.#.# Think of them for a second.####################
+\4/ Ah.#.#.# Think of them for a second.####################
+\5/ I get it. It's.#.#.# a tough question to answer.###
+
+
+
+///14///
+
+\1\ > Are you in love with someone?
+
+\1/ I.#.#.#
+
+
+
+///15///
+
+\1\ > And... is it me?
+
+\1/ .#.#.#.#.#.#
+
+
+
+///16///
+
+\1\ > I want to ask you again- what are you?
+
+\1/ Well...
+
+
+
+///17///
+
+\1\ > I... I'm not sure.
+\2\ > I really wouldn't.
+\3\ > I think I would.
+
+\1/ See. You get where I'm coming from, then.##
+\2/ So you understand.##
+\3/ I.#.#.# I think that's a privelage.## One I can't understand.
+
+
+
+///18///
+
+\1\ > $27$I love you$$ 
+\2\ > $29$I love you <3$$
+\3\ > $1$I love you (:$$
+\4\ > $14$I love you :)$$
+\5\ > ...
+
+\1/ $12$*blushes*$$ That's... nice of you to say. You're like.##.##.## a painting.### The prettiest one.########
+\2/ $12$*blushes*$$ That's... nice of you to say. You're like.##.##.## a flower.### The most vibrant one. ########
+\3/ $12$*blushes*$$ That's... nice of you to say. You're like.##.##.## a bird.### My favourite one. ########
+\4/ $12$*blushes*$$ That's... nice of you to say. You're like.##.##.## a star.### The biggest one. ########
+\5/ It's ok.############ It's fine. ########
+
+
+
+///19///
+
+\1\ > Bye-bye!
+
+\1/ Bye-bye!
