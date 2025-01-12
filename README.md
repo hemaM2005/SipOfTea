@@ -8,7 +8,7 @@ While this repository is tailored for a specific game and set of text files that
 
 The following are the details of each file.
 
-	1. typer.cs
+>	1. typer.cs
 	Most of the code relies on this. It defines the following classes-
 		i. Script: the basic reading-writing code that the console relies on. It's functions are:
 			a. print : takes user input of text, that it prints with a time-gap of 'timer' between each character (instead of instantly printing the entire text), mostly for dramatic effect.
