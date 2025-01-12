@@ -31,10 +31,10 @@ typer.cs was coded accordingly to accomodate all these components.<br>
 Similar to scene_ii.txt, except it contained the list of options and corresponding answers for the user to choose from to influence where the game goes.<br>
 &emsp;a. ///n///, #, $ : identical to scene_ii.txt<br>
 &emsp;b. \n\ : specified the list of possible options given to the user to choose from.<br>
-&emsp;c. \n/ : specifies consoles outputs corresponding to each user input.
-
-4. hellos.cs
-This is the intro to our program. It involves a series of successively contorted prints of 'Hello, World'. From the narrative point of view, it was meant to show the computer 'malfunctioning', allowing Ohio to talk to the user for the first time.
-
-5. Program.cs
-Essentially the 'mother' program. It runs all the functions mentioned above.
+&emsp;c. \n/ : specifies consoles outputs corresponding to each user input.<br>
+<br>
+4. hellos.cs<br>
+This is the intro to our program. It involves a series of successively contorted prints of 'Hello, World'. From the narrative point of view, it was meant to show the computer 'malfunctioning', allowing Ohio to talk to the user for the first time.<br>
+<br>
+5. Program.cs<br>
+Essentially the 'mother' program. It runs all the functions mentioned above.<br>
